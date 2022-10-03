@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/groot737/nft-preview-card-component)
-- Live Site URL: ( https://groot737.github.io/nft-preview-card-component/)
+- Live Site URL: ( https://groot737.github.io/nft-preview-card/)
 
 ## My process
 
